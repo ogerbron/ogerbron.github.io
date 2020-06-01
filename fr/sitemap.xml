@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://www.olivier-gerbron.fr/fr/authors/ogbn/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.olivier-gerbron.fr/en/authors/ogbn/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.olivier-gerbron.fr/fr/authors/ogbn/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.olivier-gerbron.fr/fr/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.olivier-gerbron.fr/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.olivier-gerbron.fr/fr/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.olivier-gerbron.fr/fr/authors/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.olivier-gerbron.fr/en/authors/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.olivier-gerbron.fr/fr/authors/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.olivier-gerbron.fr/fr/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.olivier-gerbron.fr/en/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.olivier-gerbron.fr/fr/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.olivier-gerbron.fr/fr/publication_types/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.olivier-gerbron.fr/en/publication_types/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.olivier-gerbron.fr/fr/publication_types/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.olivier-gerbron.fr/fr/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.olivier-gerbron.fr/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.olivier-gerbron.fr/fr/tags/"
+                />
+  </url>
+  
+</urlset>
