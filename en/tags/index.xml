@@ -7,9 +7,37 @@
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy;{year}</copyright>
+    <lastBuildDate>Sun, 22 Sep 2019 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://www.olivier-gerbron.fr/en/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Ironman</title>
+      <link>https://www.olivier-gerbron.fr/en/tags/ironman/</link>
+      <pubDate>Sun, 22 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.olivier-gerbron.fr/en/tags/ironman/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Race</title>
+      <link>https://www.olivier-gerbron.fr/en/tags/race/</link>
+      <pubDate>Sun, 22 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.olivier-gerbron.fr/en/tags/race/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Triathlon</title>
+      <link>https://www.olivier-gerbron.fr/en/tags/triathlon/</link>
+      <pubDate>Sun, 22 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.olivier-gerbron.fr/en/tags/triathlon/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
