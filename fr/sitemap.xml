@@ -110,11 +110,31 @@
   <url>
     <loc>https://www.olivier-gerbron.fr/fr/tags/ventoux/</loc>
     <lastmod>2020-09-21T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.olivier-gerbron.fr/en/tags/ventoux/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.olivier-gerbron.fr/fr/tags/ventoux/"
+                />
   </url>
   
   <url>
     <loc>https://www.olivier-gerbron.fr/fr/accomplishments/ventouxman-2020/</loc>
     <lastmod>2020-09-21T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.olivier-gerbron.fr/en/accomplishments/ventouxman-2020/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.olivier-gerbron.fr/fr/accomplishments/ventouxman-2020/"
+                />
   </url>
   
   <url>
