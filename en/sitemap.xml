@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://www.olivier-gerbron.fr/en/publication_types/4/</loc>
-    <lastmod>2020-09-29T00:00:00+00:00</lastmod>
+    <lastmod>2021-08-18T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -15,11 +14,9 @@
                 hreflang="en"
                 href="https://www.olivier-gerbron.fr/en/publication_types/4/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.olivier-gerbron.fr/en/accomplishments/</loc>
-    <lastmod>2020-09-29T00:00:00+00:00</lastmod>
+    <lastmod>2021-08-18T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -30,9 +27,88 @@
                 hreflang="en"
                 href="https://www.olivier-gerbron.fr/en/accomplishments/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://www.olivier-gerbron.fr/en/tags/ironman/</loc>
+    <lastmod>2021-08-18T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.olivier-gerbron.fr/fr/tags/ironman/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.olivier-gerbron.fr/en/tags/ironman/"
+                />
+  </url><url>
+    <loc>https://www.olivier-gerbron.fr/en/accomplishments/ironman-finland-2021/</loc>
+    <lastmod>2021-08-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.olivier-gerbron.fr/en/</loc>
+    <lastmod>2021-08-18T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.olivier-gerbron.fr/fr/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.olivier-gerbron.fr/en/"
+                />
+  </url><url>
+    <loc>https://www.olivier-gerbron.fr/en/publication_types/</loc>
+    <lastmod>2021-08-18T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.olivier-gerbron.fr/fr/publication_types/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.olivier-gerbron.fr/en/publication_types/"
+                />
+  </url><url>
+    <loc>https://www.olivier-gerbron.fr/en/tags/race/</loc>
+    <lastmod>2021-08-18T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.olivier-gerbron.fr/fr/tags/race/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.olivier-gerbron.fr/en/tags/race/"
+                />
+  </url><url>
+    <loc>https://www.olivier-gerbron.fr/en/tags/</loc>
+    <lastmod>2021-08-18T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.olivier-gerbron.fr/fr/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.olivier-gerbron.fr/en/tags/"
+                />
+  </url><url>
+    <loc>https://www.olivier-gerbron.fr/en/tags/triathlon/</loc>
+    <lastmod>2021-08-18T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.olivier-gerbron.fr/fr/tags/triathlon/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.olivier-gerbron.fr/en/tags/triathlon/"
+                />
+  </url><url>
     <loc>https://www.olivier-gerbron.fr/en/tags/deauville/</loc>
     <lastmod>2020-09-29T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -45,9 +121,7 @@
                 hreflang="en"
                 href="https://www.olivier-gerbron.fr/en/tags/deauville/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.olivier-gerbron.fr/en/accomplishments/deauville-2020/</loc>
     <lastmod>2020-09-29T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -60,84 +134,7 @@
                 hreflang="en"
                 href="https://www.olivier-gerbron.fr/en/accomplishments/deauville-2020/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://www.olivier-gerbron.fr/en/</loc>
-    <lastmod>2020-09-29T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://www.olivier-gerbron.fr/fr/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.olivier-gerbron.fr/en/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://www.olivier-gerbron.fr/en/publication_types/</loc>
-    <lastmod>2020-09-29T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://www.olivier-gerbron.fr/fr/publication_types/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.olivier-gerbron.fr/en/publication_types/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://www.olivier-gerbron.fr/en/tags/race/</loc>
-    <lastmod>2020-09-29T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://www.olivier-gerbron.fr/fr/tags/race/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.olivier-gerbron.fr/en/tags/race/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://www.olivier-gerbron.fr/en/tags/</loc>
-    <lastmod>2020-09-29T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://www.olivier-gerbron.fr/fr/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.olivier-gerbron.fr/en/tags/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://www.olivier-gerbron.fr/en/tags/triathlon/</loc>
-    <lastmod>2020-09-29T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://www.olivier-gerbron.fr/fr/tags/triathlon/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.olivier-gerbron.fr/en/tags/triathlon/"
-                />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.olivier-gerbron.fr/en/tags/ventoux/</loc>
     <lastmod>2020-09-21T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -150,9 +147,7 @@
                 hreflang="en"
                 href="https://www.olivier-gerbron.fr/en/tags/ventoux/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.olivier-gerbron.fr/en/accomplishments/ventouxman-2020/</loc>
     <lastmod>2020-09-21T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -165,24 +160,7 @@
                 hreflang="en"
                 href="https://www.olivier-gerbron.fr/en/accomplishments/ventouxman-2020/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://www.olivier-gerbron.fr/en/tags/ironman/</loc>
-    <lastmod>2019-09-22T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://www.olivier-gerbron.fr/fr/tags/ironman/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.olivier-gerbron.fr/en/tags/ironman/"
-                />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.olivier-gerbron.fr/en/accomplishments/ironman-703-wc-2019/</loc>
     <lastmod>2019-09-22T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -195,9 +173,7 @@
                 hreflang="en"
                 href="https://www.olivier-gerbron.fr/en/accomplishments/ironman-703-wc-2019/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.olivier-gerbron.fr/en/accomplishments/ironman-nice-2019/</loc>
     <lastmod>2019-06-30T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -210,9 +186,7 @@
                 hreflang="en"
                 href="https://www.olivier-gerbron.fr/en/accomplishments/ironman-nice-2019/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.olivier-gerbron.fr/en/authors/ogbn/</loc>
     <xhtml:link
                 rel="alternate"
@@ -224,9 +198,7 @@
                 hreflang="en"
                 href="https://www.olivier-gerbron.fr/en/authors/ogbn/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.olivier-gerbron.fr/en/authors/</loc>
     <xhtml:link
                 rel="alternate"
@@ -238,9 +210,7 @@
                 hreflang="en"
                 href="https://www.olivier-gerbron.fr/en/authors/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.olivier-gerbron.fr/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
@@ -253,5 +223,4 @@
                 href="https://www.olivier-gerbron.fr/en/categories/"
                 />
   </url>
-  
 </urlset>
