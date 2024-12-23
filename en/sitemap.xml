@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://www.olivier-gerbron.fr/en/publication_types/4/</loc>
-    <lastmod>2023-11-04T00:00:00+00:00</lastmod>
+    <lastmod>2024-10-26T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -16,7 +16,7 @@
                 />
   </url><url>
     <loc>https://www.olivier-gerbron.fr/en/accomplishments/</loc>
-    <lastmod>2023-11-04T00:00:00+00:00</lastmod>
+    <lastmod>2024-10-26T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -29,7 +29,7 @@
                 />
   </url><url>
     <loc>https://www.olivier-gerbron.fr/en/tags/ironman/</loc>
-    <lastmod>2023-11-04T00:00:00+00:00</lastmod>
+    <lastmod>2024-10-26T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -41,11 +41,21 @@
                 href="https://www.olivier-gerbron.fr/en/tags/ironman/"
                 />
   </url><url>
-    <loc>https://www.olivier-gerbron.fr/en/accomplishments/ironman-florida-2023/</loc>
-    <lastmod>2023-11-04T00:00:00+00:00</lastmod>
+    <loc>https://www.olivier-gerbron.fr/en/accomplishments/ironman-hawaii-2024/</loc>
+    <lastmod>2024-10-26T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.olivier-gerbron.fr/fr/accomplishments/ironman-hawaii-2024/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.olivier-gerbron.fr/en/accomplishments/ironman-hawaii-2024/"
+                />
   </url><url>
     <loc>https://www.olivier-gerbron.fr/en/</loc>
-    <lastmod>2023-11-04T00:00:00+00:00</lastmod>
+    <lastmod>2024-10-26T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -58,7 +68,7 @@
                 />
   </url><url>
     <loc>https://www.olivier-gerbron.fr/en/publication_types/</loc>
-    <lastmod>2023-11-04T00:00:00+00:00</lastmod>
+    <lastmod>2024-10-26T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -71,7 +81,7 @@
                 />
   </url><url>
     <loc>https://www.olivier-gerbron.fr/en/tags/race/</loc>
-    <lastmod>2023-11-04T00:00:00+00:00</lastmod>
+    <lastmod>2024-10-26T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -84,7 +94,7 @@
                 />
   </url><url>
     <loc>https://www.olivier-gerbron.fr/en/tags/</loc>
-    <lastmod>2023-11-04T00:00:00+00:00</lastmod>
+    <lastmod>2024-10-26T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -97,7 +107,7 @@
                 />
   </url><url>
     <loc>https://www.olivier-gerbron.fr/en/tags/triathlon/</loc>
-    <lastmod>2023-11-04T00:00:00+00:00</lastmod>
+    <lastmod>2024-10-26T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -108,6 +118,9 @@
                 hreflang="en"
                 href="https://www.olivier-gerbron.fr/en/tags/triathlon/"
                 />
+  </url><url>
+    <loc>https://www.olivier-gerbron.fr/en/accomplishments/ironman-florida-2023/</loc>
+    <lastmod>2023-11-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.olivier-gerbron.fr/en/accomplishments/ironman-lahti-2023/</loc>
     <lastmod>2023-08-27T00:00:00+00:00</lastmod>
