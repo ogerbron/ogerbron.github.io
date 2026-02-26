@@ -1,15 +1,34 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Olivier Gerbron 🇫🇷🇬🇧 - Engineering Manager @Doctolib / Triathlete</title>
+    <title>Olivier Gerbron - Staff SRE / S&amp;C Coach / Triathlete</title>
     <link>https://www.olivier-gerbron.fr/en/authors/ogbn/</link>
-    <description>Recent content on Olivier Gerbron 🇫🇷🇬🇧 - Engineering Manager @Doctolib / Triathlete</description>
+    <description>Recent content on Olivier Gerbron - Staff SRE / S&amp;C Coach / Triathlete</description>
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy;{year}</copyright>
     
 	    <atom:link href="https://www.olivier-gerbron.fr/en/authors/ogbn/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title></title>
+      <link>https://www.olivier-gerbron.fr/en/authors/ogbn/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.olivier-gerbron.fr/en/authors/ogbn/</guid>
+      <description>&lt;p&gt;Staff SRE 💻 - S&amp;amp;C Coach - Triathlete 🏊🏻‍♂️ 🚵🏻 🏃‍♂️&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.hactriathlon.com/&#34;&gt;HAC Triathlon&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.precisionhydration.com/&#34;&gt;Precision Fuel &amp;amp; Hydration Ambassador&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;🥇 AG IRONMAN Austria 2024 - 8h54&#39;14&amp;quot;&lt;/li&gt;
+&lt;li&gt;🥈 AG IRONMAN Florida 2023 - 8h42&#39;04&amp;quot;&lt;/li&gt;
+&lt;li&gt;🥇 AG IRONMAN 70.3 Weymouth 2022 - 4h32&#39;41&amp;quot;&lt;/li&gt;
+&lt;li&gt;🥈 AG IRONMAN Finland 2021 - 9h16&#39;21&amp;quot;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;IRONMAN World Championship Kona 2021 &amp;amp; 2024 qualifier&lt;/p&gt;
+</description>
+    </item>
     
   </channel>
 </rss>
